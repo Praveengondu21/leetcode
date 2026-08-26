@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Praveengondu21/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Praveengondu21/leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Praveengondu21/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Prefix Sum
@@ -11,4 +12,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Praveengondu21/leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Praveengondu21/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Praveengondu21/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
