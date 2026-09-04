@@ -7,8 +7,8 @@ class Solution:
                 f.append(i)
             else:
                 s.append(i)
-        r=[]
+        nums.clear()
         for i,j in zip(f,s):
-            r.append(i)
-            r.append(j)
-        return r
+            nums.append(i)
+            nums.append(j)
+        return nums
