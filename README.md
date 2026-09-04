@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Praveengondu21/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Praveengondu21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Praveengondu21/leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Praveengondu21/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Praveengondu21/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Praveengondu21/leetcode/tree/master/0724-find-pivot-index) |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Praveengondu21/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Praveengondu21/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Praveengondu21/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
