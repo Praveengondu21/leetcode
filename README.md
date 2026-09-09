@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Praveengondu21/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Praveengondu21/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Praveengondu21/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Praveengondu21/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Praveengondu21/leetcode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Praveengondu21/leetcode/tree/master/0724-find-pivot-index) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveengondu21/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Praveengondu21/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Praveengondu21/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Praveengondu21/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Praveengondu21/leetcode/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Praveengondu21/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Praveengondu21/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Praveengondu21/leetcode/tree/master/0229-majority-element-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveengondu21/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Simulation
 |  |
@@ -63,8 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Praveengondu21/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Praveengondu21/leetcode/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Praveengondu21/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Praveengondu21/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
