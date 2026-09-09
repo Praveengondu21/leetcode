@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Praveengondu21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Praveengondu21/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveengondu21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Praveengondu21/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Praveengondu21/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Praveengondu21/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Praveengondu21/leetcode/tree/master/0283-move-zeroes) |
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Praveengondu21/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Praveengondu21/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Praveengondu21/leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Praveengondu21/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Praveengondu21/leetcode/tree/master/0217-contains-duplicate) |
 | [0922-sort-array-by-parity-ii](https://github.com/Praveengondu21/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Simulation
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Praveengondu21/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Praveengondu21/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Praveengondu21/leetcode/tree/master/0189-rotate-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Praveengondu21/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Praveengondu21/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
