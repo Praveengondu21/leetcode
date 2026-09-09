@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Praveengondu21/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Praveengondu21/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Praveengondu21/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2404-most-frequent-even-element](https://github.com/Praveengondu21/leetcode/tree/master/2404-most-frequent-even-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Praveengondu21/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Praveengondu21/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Praveengondu21/leetcode/tree/master/0229-majority-element-ii) |
+| [2404-most-frequent-even-element](https://github.com/Praveengondu21/leetcode/tree/master/2404-most-frequent-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Praveengondu21/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Praveengondu21/leetcode/tree/master/0229-majority-element-ii) |
+| [2404-most-frequent-even-element](https://github.com/Praveengondu21/leetcode/tree/master/2404-most-frequent-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
