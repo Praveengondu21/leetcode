@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Praveengondu21/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Praveengondu21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Praveengondu21/leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Praveengondu21/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveengondu21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Praveengondu21/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Praveengondu21/leetcode/tree/master/0189-rotate-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Praveengondu21/leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Praveengondu21/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveengondu21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
